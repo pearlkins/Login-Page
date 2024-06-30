@@ -6,15 +6,6 @@
 
 }
 
-/* .id{
-    display:flex;
-    justify-content: center;
-    height: fit-content;
-    width:fit-content;
-    background-color: transparent;
-} */
-
-
 
 .login_box{
     height:552px;
@@ -23,7 +14,6 @@
     top:10px;
     left:500px;
     background-color: white;
-    /* opacity: 0.5; */
     margin-top: 85px;
     border-radius: 32px;
     display: flex;
@@ -38,16 +28,10 @@
 
 body{
     background-color:#ff5e5b;
-    
-    /* display:flex;
-    justify-content: center;
-    align-items: center;
-     */
 }
 
 
 .company_div{
-    /* position:fixed; */
     position:relative;
 
     top:50px;
@@ -59,7 +43,6 @@ body{
 }
 
 .login_text{
-    /* position:fixed; */
     position: relative;
     top:55px;
     left:60px;
@@ -202,4 +185,3 @@ button:hover{
 
 }
 
-/* to do later, add eye for viewing password */
